@@ -23,7 +23,7 @@
 // THE SOFTWARE.
 //
 
-// swift-tools-version:4
+// swift-tools-version:3.1
 
 import PackageDescription
 
