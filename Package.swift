@@ -23,6 +23,8 @@
 // THE SOFTWARE.
 //
 
+// swift-tools-version:4
+
 import PackageDescription
 
 let package = Package(
